@@ -1,0 +1,20 @@
+{
+  "name": "simple-cdn-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "deju.tu@gmail.com",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js",
+    "server": "node app.js"
+  },
+  "dependencies": {
+    "express": "4.16.4",
+    "express-fileupload": "1.0.0",
+    "read-config": "2.0.0"
+  },
+  "devDependencies": {
+    "axios": "^0.18.0",
+    "form-data": "^2.3.3"
+  }
+}
