@@ -16,6 +16,7 @@
   },
   "devDependencies": {
     "axios": "^0.18.0",
-    "form-data": "^2.3.3"
+    "form-data": "^2.3.3",
+    "glob": "^7.1.3"
   }
 }
